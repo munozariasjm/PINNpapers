@@ -46,6 +46,8 @@ A [script](./ref_convert.py) for converting bibtex to the markdown used in this 
 2. **Theory-guided hard constraint projection (HCP): A knowledge-based data-driven scientific machine learning method**, *Yuntian Chen, Dou Huang, Dongxiao Zhang, Junsheng Zeng, Nanzhe Wang, Haoran Zhang, Jinyue Yan*, Journal of Computational Physics, 2021. [[paper](https://linkinghub.elsevier.com/retrieve/pii/S0021999121005192)]
 3. **Learning in Sinusoidal Spaces with Physics-Informed Neural Networks**, *Jian Cheng Wong, Chinchun Ooi, Abhishek Gupta, Yew-Soon Ong*, arXiv:2109.09338 [physics], 2021. [[paper](http://arxiv.org/pdf/2109.09338.pdf)]
 4. **HyperPINN: Learning parameterized differential equations with physics-informed hypernetworks**, *Filipe de Avila Belbute-Peres, Yi-fan Chen, Fei Sha*, **NIPS**, 2021. [[paper](https://openreview.net/forum?id=LxUuRDUhRjM)]
+5. **Deep physical neural networks trained with backpropagation**, *Logan G. Wright, Tatsuhiro Onodera, Martin M. Stein, Tianyu Wang, Darren T. Schachter, Zoey Hu, Peter L. McMahon*, **Nature**, 2022 [[paper](https://www.nature.com/articles/s41586-021-04223-6)]
+
 
 ## Papers on Parallel PINN
 1. **Parallel Physics-Informed Neural Networks via Domain Decomposition**, *Khemraj Shukla, Ameya D. Jagtap, George Em Karniadakis*, arXiv:2104.10013 [cs], 2021. [[paper](https://arxiv.org/pdf/2104.10013)]
